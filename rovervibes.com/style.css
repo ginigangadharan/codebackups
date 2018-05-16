@@ -1,0 +1,150 @@
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+body {
+    color: #000;
+	font-size: 16px;
+	font-weight: 400;
+}
+
+body{ font-family:"Montserrat", arial, sans-serif;}
+h1{ font-family:"Montserrat", arial, sans-serif; line-height: 180%;}
+h2{ font-family:"Montserrat", arial, sans-serif; line-height: 180%;}
+h3{ font-family:"Montserrat", arial, sans-serif; line-height: 180%; font-size: 20px; font-weight: 700}
+h4{ font-family:"Montserrat", arial, sans-serif; line-height: 180%;}
+h5{ font-family:"Montserrat", arial, sans-serif; line-height: 180%;}
+h6{ font-family:"Montserrat", arial, sans-serif; line-height: 180%;}
+blockquote{ font-family:"Montserrat", arial, sans-serif;}
+p{ font-family:"Montserrat", arial, sans-serif; line-height: 180%; font-size: 100%; font-weight: 400; color: #000}
+li{ font-family:"Montserrat", arial, sans-serif;line-height: 180%; }
+
+.entry h3 { font-family:"Montserrat", arial, sans-serif; line-height: 180%; font-size: 26px; font-weight: 800}
+.entry h4 { font-family:"Montserrat", arial, sans-serif; line-height: 180%; font-size: 24px; font-weight: 700}
+#header .pad {
+padding-bottom: 2px;
+padding-top: 2px;
+}
+
+.pad {
+padding-top: 1px;
+}
+
+.post-list .post-row {
+margin-bottom: 1px;
+border-bottom: 0px solid #EEEEEE;
+}
+
+.page-title {
+border-bottom: 0px solid #EEEEEE;
+
+}
+
+.post-title a {
+color: #3d85c6;
+}
+
+.post-title {
+color: #3d85c6;
+}
+
+.featured, .featured.flexslider {
+margin-bottom: 1px;
+border-bottom: 0px solid #EEEEEE;
+
+}
+
+#page .container-inner {
+box-shadow: 0 -1px 0 #FFFFFF, 0 0px 0px rgba(0, 0, 0, 0.1);
+}
+
+#footer {
+background-color: #EEE;
+}
+#header .container-inner {
+border-bottom: 0px solid #222;
+}
+
+.entry.excerpt {
+color: #111;
+font-size: 16px;
+}
+
+.entry p a{
+color: #3d85c6;
+font-weight: 600;
+}
+
+#nav container-inner group {
+padding-top: 10px;
+}
+
+#menu-header_menu {
+padding-left: 13px;
+}
+
+
+#nav-header .container {
+padding: 0 15px;
+}
+
+#nav-header .nav li a {
+color: #000;
+font-size: 1.2em;
+font-weight: 600;
+}
+
+#nav-header.nav-container {
+box-shadow: 0 1px 0 rgba(255, 255, 255, 0.0) inset, 0 -1px 0 rgba(0, 0, 0, 0.0), 1px 0 0 rgba(0, 0, 0, 0.0) inset, -1px 0 0 rgba(0, 0, 0, 0.0) inset;
+}
+
+#nav-header .nav li.current-menu-ancestor > a, #nav-header .nav li.current-menu-item > a, #nav-header .nav li.current-post-parent > a, #nav-header .nav li.current_page_item > a, #nav-header .nav li:hover > a, #nav-header .nav li > a:hover {
+color: #000;
+}
+
+
+#nav-header .nav-toggle {
+background: rgba(0, 0, 0, 1) none repeat scroll 0 0;
+}
+
+h1, h2, h3, h4, h5 {    
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 15px;
+	text-transform: none;
+	color: #000;
+}
+h1 {
+	font-size: 54px;
+	font-weight: 700;
+	line-height: 60px;
+}
+
+h4 {
+    font-size: 24px;
+}
+
+.single .post-title {
+    font-weight: 700;
+    color: #000;
+    font-size: 50px;
+    line-height: 56px;
+}
+.post-title.entry-title.fittexted_for_single_post_title {
+	font-size: 46px !important;
+    line-height: 60px !important;
+}
+.post-title.entry-title.fittexted_for_post_titles.fittexted_for_featured_post_titles {
+	font-size: 32px !important;
+    line-height: 38px !important;
+	font-weight: 700 !important;
+}
+
+.post-title.entry-title.fittexted_for_post_titles {
+	font-size: 22px !important;
+    line-height: 26px !important;
+	font-weight: 700 !important;
+}
+
+.fittexted_for_content_h3 {
+	font-size: 28px !important;
+	font-weight: 700 !important;	
+}
